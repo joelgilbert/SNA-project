@@ -1,0 +1,390 @@
+{
+	"directed": true,
+	"multigraph": false,
+	"graph": {
+
+	},
+	"nodes": [
+		{
+			"id": "ludwik_zdort"
+		},
+		{
+			"id": "covjones"
+		},
+		{
+			"id": "Richard98084999"
+		},
+		{
+			"id": "SIfill_"
+		},
+		{
+			"id": "AnixLeslie"
+		},
+		{
+			"id": "Sorry0kEric"
+		},
+		{
+			"id": "RepMTG"
+		},
+		{
+			"id": "Terri02350303"
+		},
+		{
+			"id": "HackneyAbbott"
+		},
+		{
+			"id": "katbaker230"
+		},
+		{
+			"id": "otha_bright"
+		},
+		{
+			"id": "Dabzyum"
+		},
+		{
+			"id": "CarolineLucas"
+		},
+		{
+			"id": "CNNPolitics"
+		},
+		{
+			"id": "Teekay0077"
+		},
+		{
+			"id": "BillKristol"
+		},
+		{
+			"id": "RachelReevesMP"
+		},
+		{
+			"id": "SP0RTSFANDAN"
+		},
+		{
+			"id": "MonaWagdi3"
+		},
+		{
+			"id": "petricevicj"
+		},
+		{
+			"id": "5000tball"
+		},
+		{
+			"id": "pbleighton001"
+		},
+		{
+			"id": "ElieNYC"
+		},
+		{
+			"id": "AP"
+		},
+		{
+			"id": "ABC"
+		},
+		{
+			"id": "nrisercz"
+		},
+		{
+			"id": "MONZELLMOORE51"
+		},
+		{
+			"id": "AngelaRayner"
+		},
+		{
+			"id": "BobbyMa56063908"
+		},
+		{
+			"id": "JolyonMaugham"
+		},
+		{
+			"id": "Otto_English"
+		},
+		{
+			"id": "AnastasioCruzZ1"
+		},
+		{
+			"id": "whosaidthatthen"
+		},
+		{
+			"id": "ACTBrigitte"
+		},
+		{
+			"id": "Jessica31284850"
+		},
+		{
+			"id": "frankhanks1319"
+		},
+		{
+			"id": "whitexmas53"
+		},
+		{
+			"id": "Ryeinstein"
+		},
+		{
+			"id": "tykev"
+		},
+		{
+			"id": "DSwizzleDude"
+		},
+		{
+			"id": "AmZainUllah"
+		},
+		{
+			"id": "antsidford"
+		},
+		{
+			"id": "nytimes"
+		},
+		{
+			"id": "JamesKuol9"
+		},
+		{
+			"id": "SenWhitehouse"
+		}
+	],
+	"links": [
+		{
+			"source": "ludwik_zdort",
+			"target": "HackneyAbbott"
+		},
+		{
+			"source": "ludwik_zdort",
+			"target": "RachelReevesMP"
+		},
+		{
+			"source": "covjones",
+			"target": "AngelaRayner"
+		},
+		{
+			"source": "covjones",
+			"target": "JolyonMaugham"
+		},
+		{
+			"source": "Richard98084999",
+			"target": "JolyonMaugham"
+		},
+		{
+			"source": "Richard98084999",
+			"target": "Otto_English"
+		},
+		{
+			"source": "AnixLeslie",
+			"target": "SIfill_"
+		},
+		{
+			"source": "AnixLeslie",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "Sorry0kEric",
+			"target": "SenWhitehouse"
+		},
+		{
+			"source": "Sorry0kEric",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "Terri02350303",
+			"target": "ABC"
+		},
+		{
+			"source": "Terri02350303",
+			"target": "nytimes"
+		},
+		{
+			"source": "katbaker230",
+			"target": "CarolineLucas"
+		},
+		{
+			"source": "katbaker230",
+			"target": "JolyonMaugham"
+		},
+		{
+			"source": "otha_bright",
+			"target": "SIfill_"
+		},
+		{
+			"source": "otha_bright",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "Dabzyum",
+			"target": "ABC"
+		},
+		{
+			"source": "Dabzyum",
+			"target": "AP"
+		},
+		{
+			"source": "Teekay0077",
+			"target": "HackneyAbbott"
+		},
+		{
+			"source": "Teekay0077",
+			"target": "Otto_English"
+		},
+		{
+			"source": "SP0RTSFANDAN",
+			"target": "CarolineLucas"
+		},
+		{
+			"source": "SP0RTSFANDAN",
+			"target": "RachelReevesMP"
+		},
+		{
+			"source": "MonaWagdi3",
+			"target": "ABC"
+		},
+		{
+			"source": "MonaWagdi3",
+			"target": "CNNPolitics"
+		},
+		{
+			"source": "petricevicj",
+			"target": "ACTBrigitte"
+		},
+		{
+			"source": "petricevicj",
+			"target": "RepMTG"
+		},
+		{
+			"source": "5000tball",
+			"target": "AP"
+		},
+		{
+			"source": "5000tball",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "pbleighton001",
+			"target": "AngelaRayner"
+		},
+		{
+			"source": "pbleighton001",
+			"target": "JolyonMaugham"
+		},
+		{
+			"source": "nrisercz",
+			"target": "nytimes"
+		},
+		{
+			"source": "nrisercz",
+			"target": "AP"
+		},
+		{
+			"source": "MONZELLMOORE51",
+			"target": "ABC"
+		},
+		{
+			"source": "MONZELLMOORE51",
+			"target": "CNNPolitics"
+		},
+		{
+			"source": "BobbyMa56063908",
+			"target": "BillKristol"
+		},
+		{
+			"source": "BobbyMa56063908",
+			"target": "SIfill_"
+		},
+		{
+			"source": "BobbyMa56063908",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "AnastasioCruzZ1",
+			"target": "ACTBrigitte"
+		},
+		{
+			"source": "AnastasioCruzZ1",
+			"target": "RepMTG"
+		},
+		{
+			"source": "whosaidthatthen",
+			"target": "CarolineLucas"
+		},
+		{
+			"source": "whosaidthatthen",
+			"target": "Otto_English"
+		},
+		{
+			"source": "Jessica31284850",
+			"target": "BillKristol"
+		},
+		{
+			"source": "Jessica31284850",
+			"target": "SenWhitehouse"
+		},
+		{
+			"source": "frankhanks1319",
+			"target": "ABC"
+		},
+		{
+			"source": "frankhanks1319",
+			"target": "AP"
+		},
+		{
+			"source": "frankhanks1319",
+			"target": "CNNPolitics"
+		},
+		{
+			"source": "whitexmas53",
+			"target": "SIfill_"
+		},
+		{
+			"source": "whitexmas53",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "Ryeinstein",
+			"target": "CarolineLucas"
+		},
+		{
+			"source": "Ryeinstein",
+			"target": "HackneyAbbott"
+		},
+		{
+			"source": "Ryeinstein",
+			"target": "RachelReevesMP"
+		},
+		{
+			"source": "tykev",
+			"target": "SIfill_"
+		},
+		{
+			"source": "tykev",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "DSwizzleDude",
+			"target": "SenWhitehouse"
+		},
+		{
+			"source": "DSwizzleDude",
+			"target": "ElieNYC"
+		},
+		{
+			"source": "AmZainUllah",
+			"target": "nytimes"
+		},
+		{
+			"source": "AmZainUllah",
+			"target": "AP"
+		},
+		{
+			"source": "antsidford",
+			"target": "CarolineLucas"
+		},
+		{
+			"source": "antsidford",
+			"target": "JolyonMaugham"
+		},
+		{
+			"source": "JamesKuol9",
+			"target": "nytimes"
+		},
+		{
+			"source": "JamesKuol9",
+			"target": "CNNPolitics"
+		}
+	]
+}
